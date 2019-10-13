@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-prova-sw/static/css/main.f12632ba.chunk.css",
+    "main.js": "/react-prova-sw/static/js/main.265b396f.chunk.js",
+    "main.js.map": "/react-prova-sw/static/js/main.265b396f.chunk.js.map",
+    "runtime-main.js": "/react-prova-sw/static/js/runtime-main.8ea44b53.js",
+    "runtime-main.js.map": "/react-prova-sw/static/js/runtime-main.8ea44b53.js.map",
+    "static/js/2.d19d7594.chunk.js": "/react-prova-sw/static/js/2.d19d7594.chunk.js",
+    "static/js/2.d19d7594.chunk.js.map": "/react-prova-sw/static/js/2.d19d7594.chunk.js.map",
+    "index.html": "/react-prova-sw/index.html",
+    "precache-manifest.b5a53adcd5042c21061f6fcf37a99e96.js": "/react-prova-sw/precache-manifest.b5a53adcd5042c21061f6fcf37a99e96.js",
+    "service-worker.js": "/react-prova-sw/service-worker.js",
+    "static/css/main.f12632ba.chunk.css.map": "/react-prova-sw/static/css/main.f12632ba.chunk.css.map",
+    "static/media/jedi_female.svg": "/react-prova-sw/static/media/jedi_female.a8c9f782.svg",
+    "static/media/jedi_male.svg": "/react-prova-sw/static/media/jedi_male.8655a845.svg",
+    "static/media/sith_female.svg": "/react-prova-sw/static/media/sith_female.5dd0d2a8.svg",
+    "static/media/sith_male.svg": "/react-prova-sw/static/media/sith_male.e2b17dd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ea44b53.js",
+    "static/js/2.d19d7594.chunk.js",
+    "static/css/main.f12632ba.chunk.css",
+    "static/js/main.265b396f.chunk.js"
+  ]
+}
