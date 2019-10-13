@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-prova-sw/static/css/main.f12632ba.chunk.css",
-    "main.js": "/react-prova-sw/static/js/main.d8418593.chunk.js",
-    "main.js.map": "/react-prova-sw/static/js/main.d8418593.chunk.js.map",
+    "main.js": "/react-prova-sw/static/js/main.211b48fb.chunk.js",
+    "main.js.map": "/react-prova-sw/static/js/main.211b48fb.chunk.js.map",
     "runtime-main.js": "/react-prova-sw/static/js/runtime-main.8ea44b53.js",
     "runtime-main.js.map": "/react-prova-sw/static/js/runtime-main.8ea44b53.js.map",
     "static/js/2.bf96868e.chunk.js": "/react-prova-sw/static/js/2.bf96868e.chunk.js",
     "static/js/2.bf96868e.chunk.js.map": "/react-prova-sw/static/js/2.bf96868e.chunk.js.map",
     "index.html": "/react-prova-sw/index.html",
-    "precache-manifest.a8a30f7834cc25d33f8890f2f85aaa2c.js": "/react-prova-sw/precache-manifest.a8a30f7834cc25d33f8890f2f85aaa2c.js",
+    "precache-manifest.6b31b2b86e94c7c9de03bb667816cdd8.js": "/react-prova-sw/precache-manifest.6b31b2b86e94c7c9de03bb667816cdd8.js",
     "service-worker.js": "/react-prova-sw/service-worker.js",
     "static/css/main.f12632ba.chunk.css.map": "/react-prova-sw/static/css/main.f12632ba.chunk.css.map",
     "static/media/jedi_female.svg": "/react-prova-sw/static/media/jedi_female.a8c9f782.svg",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.8ea44b53.js",
     "static/js/2.bf96868e.chunk.js",
     "static/css/main.f12632ba.chunk.css",
-    "static/js/main.d8418593.chunk.js"
+    "static/js/main.211b48fb.chunk.js"
   ]
 }
