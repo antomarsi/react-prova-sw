@@ -1,0 +1,16 @@
+.radio-svg[type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  &:checked + div > div > svg {
+    filter: none;
+  }
+  & + div > div > svg {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    filter: grayscale(100%);
+    transition: filter 0.5s ease;
+  }
+}
