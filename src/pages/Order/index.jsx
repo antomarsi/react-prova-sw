@@ -26,13 +26,9 @@ const Order = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
-    console.log("teste");
-    console.log(profile);
-
     if (!profile.name || !profile.genre) {
       dispatch(push("/"));
     } else if (profile.order) {
-      console.log("Vai");
       dispatch(push("/missions"));
     }
   }, [profile]);
