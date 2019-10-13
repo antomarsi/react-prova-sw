@@ -7,7 +7,8 @@ import {
   FormGroup,
   Button,
   Container,
-  Input
+  Input,
+  CardTitle
 } from "reactstrap";
 import { setOrderAction, setMainAction } from "../../store/actions";
 import { push } from "connected-react-router";
@@ -46,6 +47,9 @@ const Order = () => {
   return (
     <Container className="step-1">
       <Card body>
+        <CardTitle className="text-center" tag="h2">
+          Selecione seu gênero:
+        </CardTitle>
         <Form className="form" onSubmit={HandleSubmit}>
           <FormGroup row>
             <Col xs={6} className="text-center">

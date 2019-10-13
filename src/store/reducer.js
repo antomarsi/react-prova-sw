@@ -37,7 +37,7 @@ export default function sw(state = INITIAL_STATE, action) {
         ...state,
         profile: { ...state.profile, order: action.payload.order }
       };
-    case "REST_PROFILE":
+    case "RESET_PROFILE":
       return { ...state, profile: INITIAL_STATE.profile };
     default:
       return state;

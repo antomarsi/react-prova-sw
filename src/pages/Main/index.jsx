@@ -7,7 +7,8 @@ import {
   FormGroup,
   Input,
   Button,
-  Container
+  Container,
+  CardTitle
 } from "reactstrap";
 import { setMainAction } from "../../store/actions";
 import { push } from "connected-react-router";
@@ -35,6 +36,7 @@ const Main = () => {
   return (
     <Container className="step-1">
       <Card body>
+        <CardTitle className="text-center" tag="h2">Selecione seu gênero:</CardTitle>
         <Form className="form" onSubmit={HandleSubmit}>
           <Col>
             <FormGroup row>
